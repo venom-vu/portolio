@@ -1,0 +1,140 @@
+{
+  "header": {
+    "home": "home",
+    "projects": "projects",
+    "about": "about-me",
+    "contacts": "contacts"
+  },
+  "footer": {
+    "description": "Web developer based in Viet Nam",
+    "copyright": "Copyright 2023. Made by Elias",
+    "media": "Media"
+  },
+  "skills": {
+    "frontend": "Front-End",
+    "backend": "Back-End",
+    "database": "Databases",
+    "devops": "DevOps",
+    "tool": "Tools",
+    "blockchain": "Blockchain"
+  },
+  "projects": {
+    "chertnodes": {
+      "name": "ChertNodes",
+      "description": "Minecraft servers hosting"
+    },
+    "protectx": {
+      "name": "ProtectX web",
+      "description": "Discord anti-crash bot"
+    },
+    "khanswers": {
+      "name": "Kahoot Answers",
+      "description": "Get answers from kahoot quiz"
+    },
+    "kotikbot": {
+      "name": "KotikBot",
+      "description": "Landing for multi-functional cute discord bot"
+    },
+    "portfolio": {
+      "name": "This Portfolio",
+      "description": "My personal portfolio"
+    },
+    "blog": {
+      "name": "My blog",
+      "description": "Front-end of my future blog website"
+    },
+    "discordbot": {
+      "name": "Discord Bot Boilerplate",
+      "description": "Start creating scalable discord.js bot with typescript in seconds"
+    },
+    "chesspro": {
+      "name": "Chess PRO",
+      "description": "Landing page about service for viewing chess tournaments"
+    },
+    "ooku": {
+      "name": "Ooku",
+      "description": "Link shortener with discord auth"
+    },
+    "madhost": {
+      "name": "MadHost",
+      "description": "Minecraft and websites hosting with low prices"
+    },
+    "feedrum": {
+      "name": "Feedrum",
+      "description": "Ukrainian social network designed for programmers"
+    },
+    "deplos": {
+      "name": "Deplos",
+      "description": "Game servers hosting"
+    },
+    "pixel-battle": {
+      "name": "Pixel Battle",
+      "description": "Pixel art battle game"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title2": "I'm a <span>web designer</span> and <span>front-end</span> developer",
+        "title": "I'm a <span>web developer</span>",
+        "description": "I craft responsive websites where technologies meet creativity",
+        "button": "Contact ME",
+        "status": "Open for new opportunities"
+      },
+      "quote": {
+        "text": "With great power comes great electricity bill",
+        "author": "Dr. Who"
+      },
+      "projects": {
+        "title": "projects",
+        "button": "View all"
+      },
+      "skills": {
+        "title": "skills"
+      },
+      "about": {
+        "title": "about",
+        "description": [
+          "I'm a passionate web developer dedicated to crafting responsive websites where technology meets creativity. With a strong foundation in HTML, CSS, JavaScript, TypeScript and frameworks like Vue, Nuxt, I focus on building user-friendly interfaces optimized for all devices. ",
+          "My logical mindset and creative flair drive me to create effective, visually appealing web solutions. I continuously learn new technologies to deliver high-quality products that meet user and business needs."
+        ],
+        "button": "View all"
+      },
+      "contacts": {
+        "title": "contacts",
+        "text": "I’m interested in job opportunities. If you have other request or question, don’t hesitate to contact me",
+        "media": "Message me here",
+        "donate": "Donate me here"
+      }
+    },
+    "projects": {
+      "description": "All of my projects",
+      "decent": "decent",
+      "small": "small",
+      "inProgress": "unfinished"
+    },
+    "about": {
+      "description": "Who am i",
+      "about": {
+        "description": [
+          "I'm a passionate web developer dedicated to crafting responsive websites where technology meets creativity. With a strong foundation in HTML, CSS, JavaScript, TypeScript and frameworks like Vue, Nuxt, I focus on building user-friendly interfaces optimized for all devices. ",
+          "My logical mindset and creative flair drive me to create effective, visually appealing web solutions. I continuously learn new technologies to deliver high-quality products that meet user and business needs. "
+        ]
+      },
+      "skills": {
+        "title": "skills"
+      },
+      "facts": {
+        "title": "fun-facts",
+        "list": [
+          "I dream of building a web application with millions of users one day",
+          "I like back-end more than front-end",
+          "I like playing the piano"
+        ]
+      }
+    },
+    "contacts": {
+      "description": "How to contact me"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "header": {
+    "home": "trang chủ",
+    "projects": "dự án",
+    "about": "giới thiệu",
+    "contacts": "liên hệ"
+  },
+  "footer": {
+    "description": "Lập trình viên web tại Việt Nam",
+    "copyright": "Bản quyền 2023. Thực hiện bởi Elias",
+    "media": "mạng xã hội"
+  },
+  "skills": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "devops": "DevOps",
+    "tool": "Công cụ",
+    "blockchain": "Blockchain"
+  },
+  "projects": {
+    "chertnodes": {
+      "name": "ChertNodes",
+      "description": "Dịch vụ lưu trữ máy chủ Minecraft"
+    },
+    "protectx": {
+      "name": "ProtectX Web",
+      "description": "Bot chống sập cho Discord"
+    },
+    "khanswers": {
+      "name": "Kahoot Answers",
+      "description": "Lấy đáp án từ bài kiểm tra Kahoot"
+    },
+    "kotikbot": {
+      "name": "KotikBot",
+      "description": "Trang đích cho bot Discord đa chức năng dễ thương"
+    },
+    "portfolio": {
+      "name": "Hồ sơ cá nhân",
+      "description": "Hồ sơ cá nhân của tôi"
+    },
+    "blog": {
+      "name": "Blog của tôi",
+      "description": "Giao diện cho trang blog tương lai của tôi"
+    },
+    "discordbot": {
+      "name": "Mẫu Bot Discord",
+      "description": "Bắt đầu tạo bot discord.js có khả năng mở rộng bằng TypeScript trong vài giây"
+    },
+    "chesspro": {
+      "name": "Chess PRO",
+      "description": "Trang đích về dịch vụ xem các giải đấu cờ vua"
+    },
+    "ooku": {
+      "name": "Ooku",
+      "description": "Dịch vụ rút gọn liên kết với xác thực Discord"
+    },
+    "madhost": {
+      "name": "MadHost",
+      "description": "Lưu trữ Minecraft và website với giá thấp"
+    },
+    "feedrum": {
+      "name": "Feedrum",
+      "description": "Mạng xã hội Ukraine dành cho lập trình viên"
+    },
+    "deplos": {
+      "name": "Deplos",
+      "description": "Dịch vụ lưu trữ máy chủ game"
+    },
+    "pixel-battle": {
+      "name": "Pixel Battle",
+      "description": "Trò chơi đấu tranh nghệ thuật pixel"
+    }
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title2": "Tôi là một <span>nhà thiết kế web</span> và <span>lập trình viên giao diện</span>",
+        "title": "Tôi là một <span>lập trình viên web</span>",
+        "description": "Tôi tạo ra các website responsive nơi công nghệ gặp gỡ sự sáng tạo",
+        "button": "Liên hệ với tôi",
+        "status": "Sẵn sàng cho các cơ hội mới"
+      },
+      "quote": {
+        "text": "Sức mạnh lớn đi kèm với hóa đơn tiền điện lớn",
+        "author": "Dr. Who"
+      },
+      "projects": {
+        "title": "dự án",
+        "button": "Xem tất cả"
+      },
+      "skills": {
+        "title": "kỹ năng"
+      },
+      "about": {
+        "title": "giới thiệu",
+        "description": [
+          "Tôi là một lập trình viên web đam mê, chuyên tạo ra các website responsive nơi công nghệ gặp gỡ sự sáng tạo. Với nền tảng vững chắc trong HTML, CSS, JavaScript, TypeScript và các khung công tác như Vue, Nuxt, tôi tập trung xây dựng các giao diện thân thiện với người dùng, tối ưu cho mọi thiết bị.",
+          "Tư duy logic và óc sáng tạo thúc đẩy tôi tạo ra các giải pháp web hiệu quả, hấp dẫn về mặt thị giác. Tôi không ngừng học hỏi các công nghệ mới để mang lại sản phẩm chất lượng cao, đáp ứng nhu cầu của người dùng và doanh nghiệp."
+        ],
+        "button": "Xem tất cả"
+      },
+      "contacts": {
+        "title": "liên hệ",
+        "text": "Tôi quan tâm đến các cơ hội việc làm. Nếu bạn có yêu cầu hoặc câu hỏi khác, đừng ngần ngại liên hệ với tôi",
+        "media": "Nhắn tin cho tôi tại đây",
+        "donate": "Ủng hộ tôi tại đây"
+      }
+    },
+    "projects": {
+      "description": "Tất cả dự án của tôi",
+      "decent": "đáng chú ý",
+      "small": "nhỏ",
+      "inProgress": "chưa hoàn thành"
+    },
+    "about": {
+      "description": "Tôi là ai",
+      "about": {
+        "description": [
+          "Tôi là một lập trình viên web đam mê, chuyên tạo ra các website responsive nơi công nghệ gặp gỡ sự sáng tạo. Với nền tảng vững chắc trong HTML, CSS, JavaScript, TypeScript và các khung công tác như Vue, Nuxt, tôi tập trung xây dựng các giao diện thân thiện với người dùng, tối ưu cho mọi thiết bị.",
+          "Tư duy logic và óc sáng tạo thúc đẩy tôi tạo ra các giải pháp web hiệu quả, hấp dẫn về mặt thị giác. Tôi không ngừng học hỏi các công nghệ mới để mang lại sản phẩm chất lượng cao, đáp ứng nhu cầu của người dùng và doanh nghiệp."
+        ]
+      },
+      "skills": {
+        "title": "kỹ năng"
+      },
+      "facts": {
+        "title": "sự thật thú vị",
+        "list": [
+          "Tôi mơ một ngày được xây dựng một ứng dụng web triệu người dùng",
+          "Tôi thích làm back-end hơn front-end",
+          "Tôi thích chơi piano"
+        ]
+      }
+    },
+    "contacts": {
+      "description": "Cách liên hệ với tôi"
+    }
+  }
+}
