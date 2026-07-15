@@ -13,7 +13,7 @@ export function startTitleAnimation(pathName: string) {
 
   function animation(timestamp: number) {
     if (lastTimestep + frameInterval < timestamp) {
-      document.title = `${steps[step++]} HUY | ${pathName}`;
+      document.title = `${steps[step++]} VENOM | ${pathName}`;
       step %= steps.length;
       lastTimestep = timestamp;
     }
